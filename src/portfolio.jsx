@@ -22,7 +22,7 @@ const Portfolio = () => {
               <a href="#contact">Contact</a>
             </li>
             <li>
-              <a href="./yash.pdf">My Resume</a>
+              <a href="./YASHMODI.pdf">My Resume</a>
             </li>
           </ul>
         </nav>
