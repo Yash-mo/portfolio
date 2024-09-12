@@ -22,7 +22,7 @@ const Portfolio = () => {
               <a href="#contact">Contact</a>
             </li>
             <li>
-              <a href="./yashmodi.pdf">My Resume</a>
+              <a href="./yash.pdf">My Resume</a>
             </li>
           </ul>
         </nav>
@@ -43,7 +43,7 @@ const Portfolio = () => {
           and interactive websites.
         </p>
       </section>
-      
+
       <section id="projects" className="projects">
         <h2>Projects</h2>
         <div className="project-list">
